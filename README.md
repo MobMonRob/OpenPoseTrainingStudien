@@ -1,0 +1,2 @@
+# OpenPoseTrainingStudien
+Studienarbeit openpose training.
